@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scripting on Enhanced Lowkey Chillin</title>
+    <link>http://localhost:1313/categories/scripting/</link>
+    <description>Recent content in Scripting on Enhanced Lowkey Chillin</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Tue, 23 Apr 2024 11:44:12 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/scripting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build Toolchain and Scripting</title>
+      <link>http://localhost:1313/posts/build-toolchain-and-scripting/</link>
+      <pubDate>Tue, 23 Apr 2024 11:44:12 +0300</pubDate>
+      <guid>http://localhost:1313/posts/build-toolchain-and-scripting/</guid>
+      <description>Systems organization and tooling Recently I am reorganizing my DSA folder, where I keep my primitive data structures and algorithms implementations in C.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+User-agent: *
+
+Disallow: /
+
+Disallow: /posts/git-in-golang/
+
+Disallow: /posts/
+
+Disallow: /categories/build-toolchain/
+
+Disallow: /posts/build-toolchain-and-scripting/
+
+Disallow: /categories/
+
+Disallow: /categories/scripting/
+
+Disallow: /posts/b-tree-data-structure/
+
+Disallow: /categories/data-structures/
+
+Disallow: /categories/blockchain/
+
+Disallow: /posts/blockchain-in-golang/
+
+Disallow: /categories/golang/
+
+Disallow: /tags/hello/
+
+Disallow: /categories/hello/
+
+Disallow: /posts/markdown-cheat-sheet/
+
+Disallow: /tags/
+
+Disallow: /tags/whatsapp/
+
+Disallow: /categories/css/
+
+Disallow: /categories/javascript/
+
+Disallow: /categories/uncategories/

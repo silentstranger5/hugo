@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Enhanced Lowkey Chillin</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Post on Enhanced Lowkey Chillin</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Fri, 26 Apr 2024 11:12:15 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git in Golang</title>
+      <link>http://localhost:1313/posts/git-in-golang/</link>
+      <pubDate>Fri, 26 Apr 2024 11:12:15 +0300</pubDate>
+      <guid>http://localhost:1313/posts/git-in-golang/</guid>
+      <description>Nice excercise Recently I stumbled upon codecrafters, a wonderful resource for learning programming. So I decided to try their course called &amp;lsquo;Build your own Git&amp;rsquo;.</description>
+    </item>
+    <item>
+      <title>Build Toolchain and Scripting</title>
+      <link>http://localhost:1313/posts/build-toolchain-and-scripting/</link>
+      <pubDate>Tue, 23 Apr 2024 11:44:12 +0300</pubDate>
+      <guid>http://localhost:1313/posts/build-toolchain-and-scripting/</guid>
+      <description>Systems organization and tooling Recently I am reorganizing my DSA folder, where I keep my primitive data structures and algorithms implementations in C.</description>
+    </item>
+    <item>
+      <title>B-Tree Data Structure</title>
+      <link>http://localhost:1313/posts/b-tree-data-structure/</link>
+      <pubDate>Sun, 21 Apr 2024 08:19:48 +0300</pubDate>
+      <guid>http://localhost:1313/posts/b-tree-data-structure/</guid>
+      <description>Pseudocode is better than natural language As you could notice in the previous post, I am learning about how to build some stuff.</description>
+    </item>
+    <item>
+      <title>Blockchain in Golang</title>
+      <link>http://localhost:1313/posts/blockchain-in-golang/</link>
+      <pubDate>Sun, 21 Apr 2024 07:48:21 +0300</pubDate>
+      <guid>http://localhost:1313/posts/blockchain-in-golang/</guid>
+      <description>Reflection on complexity Despite of how much time already passed since I started to learn how to code, it certainly doesn&amp;rsquo;t feels like I am steadily improving that much.</description>
+    </item>
+    <item>
+      <title>Markdown Cheat Sheet</title>
+      <link>http://localhost:1313/posts/markdown-cheat-sheet/</link>
+      <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
+      <guid>http://localhost:1313/posts/markdown-cheat-sheet/</guid>
+      <description>This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.</description>
+    </item>
+  </channel>
+</rss>
